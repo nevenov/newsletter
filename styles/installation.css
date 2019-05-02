@@ -1,0 +1,29 @@
+body {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	background-color:#f9f9f9;
+}
+.form_table {
+	width: 650px;
+	text-align: left;
+	background-color: #FFFFFF;
+	border:solid 1px #BFBFBF;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	
+	-moz-box-shadow:    0 4px 5px #ccc;
+  	-webkit-box-shadow: 0 4px 5px #ccc;
+  	box-shadow:         0 4px 5px #ccc;
+}
+
+.install_wrap {
+	text-align: center;
+}
+.head_row {
+	padding: 5px;
+	font-weight: bold;
+	background-color: #CCCCCC;
+}
+.alerts {
+	color: #F00;	
+}
